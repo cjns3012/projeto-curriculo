@@ -1,0 +1,9 @@
+.foto-perfil{
+  border-style: solid;
+  border-color: black;
+  border-radius: 100%;
+}
+
+#nome{
+  color:blue;
+}
